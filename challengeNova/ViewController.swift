@@ -15,10 +15,12 @@ class ViewController: UIViewController {
     @IBAction func aumentar(_ sender: Any) {
         sunWidth.constant += 40
         sunHeight.constant += 40
+        print("kek")
     }
     @IBAction func reducir(_ sender: Any) {
         sunWidth.constant -= 40
         sunHeight.constant -= 40
+        print("kek")
     }
     
     override func viewDidLoad() {

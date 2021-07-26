@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		699869E526AF037A00B9B6E8 /* ProfileController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 699869E426AF037A00B9B6E8 /* ProfileController.swift */; };
 		69FDE3B326AED0EE00DD4834 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69FDE3B226AED0EE00DD4834 /* AppDelegate.swift */; };
 		69FDE3B526AED0EE00DD4834 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69FDE3B426AED0EE00DD4834 /* SceneDelegate.swift */; };
 		69FDE3B726AED0EE00DD4834 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 69FDE3B626AED0EE00DD4834 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		699869E426AF037A00B9B6E8 /* ProfileController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ProfileController.swift; sourceTree = "<group>"; };
 		69FDE3AF26AED0EE00DD4834 /* challengeNova.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = challengeNova.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		69FDE3B226AED0EE00DD4834 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		69FDE3B426AED0EE00DD4834 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				69FDE3BB26AED0F000DD4834 /* Assets.xcassets */,
 				69FDE3BD26AED0F000DD4834 /* LaunchScreen.storyboard */,
 				69FDE3C026AED0F000DD4834 /* Info.plist */,
+				699869E426AF037A00B9B6E8 /* ProfileController.swift */,
 			);
 			path = challengeNova;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				699869E526AF037A00B9B6E8 /* ProfileController.swift in Sources */,
 				69FDE3B726AED0EE00DD4834 /* ViewController.swift in Sources */,
 				69FDE3C926AEE00F00DD4834 /* Secondcontroller.swift in Sources */,
 				69FDE3B326AED0EE00DD4834 /* AppDelegate.swift in Sources */,
